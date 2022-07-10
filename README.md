@@ -52,7 +52,7 @@ $ npm run test
 $ npm run test:watch
 ```
 
-#### 23. Run jest with --coverage option
+#### 3. Run jest with --coverage option
 
 ```
 $ npm run test:cov
